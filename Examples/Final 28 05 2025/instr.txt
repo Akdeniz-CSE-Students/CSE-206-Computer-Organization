@@ -1,0 +1,3 @@
+Corgda hoca vize konularından öğrencilerin çok yanlış yaptığı konuları tekrardan sorabilirim dedi, hamming code bunlardan birisiymiş, yine mappinglerin bazılarında sorun varmış dediğine göre. Onun dışında formatı aynı tutarım hatta true false koyup test kısmını artırabilirim dedi. Kod yazdırmayı düşünmüyor daha çok kod verip kodu yorumlatmayı düşünüyormuş
+
+corg- raid , hamming, amdahl hepsi
